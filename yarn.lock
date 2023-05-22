@@ -144,13 +144,6 @@ dayjs@^1.11.7:
   resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.7.tgz#4b296922642f70999544d1144a2c25730fce63e2"
   integrity sha512-+Yw9U6YO5TQohxLcIkrXBeY73WP3ejHWVvx8XCk3gxvQDCTEmS48ZrSZCKciI7Bhl/uCMyxYtE9UqRILmFphkQ==
 
-echarts.js@^3.0.0-beta3:
-  version "3.0.0-beta3"
-  resolved "https://registry.yarnpkg.com/echarts.js/-/echarts.js-3.0.0-beta3.tgz#7da2041524dd7fadeeae4a212a9864caed899367"
-  integrity sha512-hQGMDfS8FVks2q/ea9x1w2HAtsfIAdXMV3MA2qQJfnFVW9cAJSh++K3NQ+1U6HLj2qMO5EVgyoFXDEwBtVmVVQ==
-  dependencies:
-    zrenderjs "3.0.0-beta5"
-
 echarts@^5.4.2:
   version "5.4.2"
   resolved "https://registry.yarnpkg.com/echarts/-/echarts-5.4.2.tgz#9f38781c9c6ae323e896956178f6956952c77a48"
@@ -216,6 +209,11 @@ postcss@^8.4.23:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
+regression@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/regression/-/regression-2.0.1.tgz#8d29c3e8224a10850c35e337e85a8b2fac3b0c87"
+  integrity sha512-A4XYsc37dsBaNOgEjkJKzfJlE394IMmUPlI/p3TTI9u3T+2a+eox5Pr/CPUqF0eszeWZJPAc6QkroAhuUpWDJQ==
+
 rollup@^3.21.0:
   version "3.22.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.22.0.tgz#e6671baebdd473154ac7998bbc57faabcd7bba20"
@@ -255,8 +253,3 @@ zrender@5.4.3:
   integrity sha512-DRUM4ZLnoaT0PBVvGBDO9oWIDBKFdAVieNWxWwK0niYzJCMwGchRk21/hsE+RKkIveH3XHCyvXcJDkgLVvfizQ==
   dependencies:
     tslib "2.3.0"
-
-zrenderjs@3.0.0-beta5:
-  version "3.0.0-beta5"
-  resolved "https://registry.yarnpkg.com/zrenderjs/-/zrenderjs-3.0.0-beta5.tgz#a828e30c44dc8cc75d4847f9735df14f5ce7433e"
-  integrity sha512-0DybESIa+ROGlEN+Mnnzfew+1GQUXsFsCFTccWg6JjiZkzbnNB5yhhQ5HHw8sNzMb7UI6Fj7pYxUifd2y3IlZg==

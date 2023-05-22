@@ -19,6 +19,7 @@
     "chartjs-plugin-annotation": "^3.0.1",
     "dayjs": "^1.11.7",
     "echarts": "^5.4.2",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "regression": "^2.0.1"
   }
 }
